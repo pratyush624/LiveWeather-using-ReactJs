@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LiveWeather-using-ReactJs/static/css/main.d738403e.chunk.css",
+    "main.js": "/LiveWeather-using-ReactJs/static/js/main.63407275.chunk.js",
+    "main.js.map": "/LiveWeather-using-ReactJs/static/js/main.63407275.chunk.js.map",
+    "runtime-main.js": "/LiveWeather-using-ReactJs/static/js/runtime-main.a23cc6be.js",
+    "runtime-main.js.map": "/LiveWeather-using-ReactJs/static/js/runtime-main.a23cc6be.js.map",
+    "static/js/2.0aacf291.chunk.js": "/LiveWeather-using-ReactJs/static/js/2.0aacf291.chunk.js",
+    "static/js/2.0aacf291.chunk.js.map": "/LiveWeather-using-ReactJs/static/js/2.0aacf291.chunk.js.map",
+    "static/js/3.8ffd2725.chunk.js": "/LiveWeather-using-ReactJs/static/js/3.8ffd2725.chunk.js",
+    "static/js/3.8ffd2725.chunk.js.map": "/LiveWeather-using-ReactJs/static/js/3.8ffd2725.chunk.js.map",
+    "index.html": "/LiveWeather-using-ReactJs/index.html",
+    "static/css/main.d738403e.chunk.css.map": "/LiveWeather-using-ReactJs/static/css/main.d738403e.chunk.css.map",
+    "static/js/2.0aacf291.chunk.js.LICENSE.txt": "/LiveWeather-using-ReactJs/static/js/2.0aacf291.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a23cc6be.js",
+    "static/js/2.0aacf291.chunk.js",
+    "static/css/main.d738403e.chunk.css",
+    "static/js/main.63407275.chunk.js"
+  ]
+}
